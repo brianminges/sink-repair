@@ -1,0 +1,27 @@
+{
+  "plumbers": [],
+  "completions": [],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "description": "Leaky faucet",
+      "address": "123 Main Street",
+      "budget": "100.00",
+      "neededBy": "2021-12-09",
+      "id": 2
+    },
+    {
+      "description": "Clogged bathtub drain",
+      "address": "100 Anywhere Boulevard",
+      "budget": "500.00",
+      "neededBy": "2021-12-16",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+button {
+	background-color: navy;
+    color: white;
+    font-weight: bold;
+	font-family: "Comfortaa", Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+    margin-top: 2rem;
+    padding: 10px;
+}
+
+input {
+    margin-bottom: .5rem;
+    width: 500px;
+    height: 20px;
+}
